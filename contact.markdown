@@ -2,4 +2,5 @@
 title: Contact
 ---
 
-Whisper to a moth of your need, and release it unto me.
+<a href="https://twitter.com/doomcrowgames" class="twitter-follow-button" data-show-count="false">Follow @doomcrowgames</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
