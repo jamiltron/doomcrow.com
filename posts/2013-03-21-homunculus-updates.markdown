@@ -12,7 +12,7 @@ Get the latest Homunculus updates here. I have also added an OSX app and an Andr
   
 [Linux Download](http://www.doomcrow.com/games/homunculus/linux/Homunculus.jar)   
 
-[Android Download](http://www.doomcrow.com/games/homunculus/android/Homunculus.apk)
+[Android Download](https://play.google.com/store/apps/details?id=com.jamiltron.homunculus)
 
 
 

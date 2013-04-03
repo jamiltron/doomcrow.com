@@ -2,4 +2,4 @@
 title: Games
 ---
 
-[Homunculus](http://www.doomcrow.com/homunculus.html): An exciting match-four puzzle game.
+<a href="homunculus.html"><img src="images/bannerBig.png"></a>
